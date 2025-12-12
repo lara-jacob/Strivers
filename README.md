@@ -55,10 +55,10 @@ Identify potential diseases in the crops early to prevent spread and minimize da
    > Machine Learning Algorithms Used
 
         * Logistic Regression: accuracy achieved 95.23
-        * Support Vector Machine (SVM): accuracy achieved 97.73
-        * K-Nearest Neighbors (KNN): accuracy achieved 97.50
-        * Decision Tree: accuracy achieved 97.73
-        * Random Forest: accuracy achieved 99.55
+        * Support Vector Machine (SVM): accuracy achieved 93.73
+        * K-Nearest Neighbors (KNN): accuracy achieved 94.50
+        * Decision Tree: accuracy achieved 96.73
+        * Random Forest: accuracy achieved 97.73
  
   > Loaded .pkl model file to recommend crop based on input data
 4.Choose the model K-Nearest Neighbors (KNN)
@@ -80,7 +80,7 @@ Identify potential diseases in the crops early to prevent spread and minimize da
         * Logistic Regression: accuracy achieved 96.66
         * Support Vector Machine (SVM): accuracy achieved 83.33
         * DecisionTreeClassifier model: accuracy achieved 93.33
-        * RandomForestClassifier model: accuracy achieved 99.95
+        * RandomForestClassifier model: accuracy achieved 97.95
         * GradientBoostingClassifier model: accuracy achieved 93.33
  
   > Loaded .pkl model file to recommend fertilizer based on input data
